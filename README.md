@@ -18,6 +18,6 @@ This repository contains scripts and trained DL models for identification of var
 
 #### Trained weights can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1R7_c6YbYJ_XLjl0N_vgnWnPl-R7IPH_P?usp=sharing).
 
-### Google Colab starter notebook would be added in a short while. Meanwhile the weights can be used with the following projects:
+### Google Colab starter notebook would be added in a short while. Meanwhile these weights can be used with the following projects to identify abovementioned streetscape features:
 * [D-LinkNet34](https://github.com/zlckanata/DeepGlobe-Road-Extraction-Challenge)
 * [RetinaNet](https://github.com/weecology/DeepForest)
